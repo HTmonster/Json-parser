@@ -1,0 +1,28 @@
+{
+  "status": "OK",
+  "history": [{
+      "text": "雷阵雨",
+      "code": "11",
+      "temperature": "23",
+      "feels_like": "24",
+      "wind_direction": "西",
+      "wind_speed": "8.51",
+      "pressure_rising": "steady",
+      "air_quality": {
+          "city": {
+              "aqi": "58",
+              "pm25": "40",
+              "pm10": "54",
+              "so2": "4",
+              "quality": null,
+              "last_update": null
+          },
+          "stations": null
+      },
+      "time_stamp": "2014-08-16T23:45:48+08:00"
+  }, {
+      "text": "雷阵雨",
+      "code": "11",
+      "temperature": "22"
+  }]
+}

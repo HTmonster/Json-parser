@@ -1,0 +1,10 @@
+{
+     "items":
+     [
+         {
+           "type": "fax",
+           "price": 19003.4,
+           "Sunday":true
+         }
+     ]
+ }

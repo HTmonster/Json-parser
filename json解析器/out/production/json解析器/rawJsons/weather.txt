@@ -1,0 +1,15 @@
+{
+  "status": "OK",
+  "weather": [{
+      "city_name": "北京",
+      "last_update": "2014-01-26T12:52:57+08:00",
+      "now":{
+          "text": "多云",
+          "code": "4",
+          "wind_direction": "南",
+          "pressure_rising": "N/A",
+          "air_quality": null
+          }
+      }
+  ]
+}
